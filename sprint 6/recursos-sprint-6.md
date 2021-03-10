@@ -6,3 +6,8 @@
 
 - Estrucutra de directoris projecte de React: https://dev.to/pcofilada/simple-react-folder-structure-31lj
 
+- Aprender Webpack paso a paso (en castellano) : https://www.youtube.com/watch?v=ansUGkcrhwY
+
+- Web oficial de React: https://es.reactjs.org/
+
+- Curso para principiantes React Hooks: https://www.youtube.com/watch?v=mOz5eNcEHu4
