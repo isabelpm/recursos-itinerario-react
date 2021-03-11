@@ -11,3 +11,5 @@
 - Web oficial de React: https://es.reactjs.org/
 
 - Curso para principiantes React Hooks: https://www.youtube.com/watch?v=mOz5eNcEHu4
+
+-Tutorial explica el ecosistema de react: https://www.youtube.com/watch?v=QAQdTvdOpF0
